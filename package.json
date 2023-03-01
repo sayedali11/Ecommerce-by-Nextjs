@@ -9,11 +9,33 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@headlessui/react": "^1.7.7",
+    "@heroicons/react": "^1.0.6",
+    "@mui/icons-material": "^5.11.9",
+    "@mui/material": "^5.11.10",
     "@next/font": "13.1.2",
+    "@paypal/react-paypal-js": "^7.8.2",
+    "autoprefixer": "^10.4.13",
+    "axios": "^1.2.6",
+    "bcryptjs": "^2.4.3",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.2",
+    "flowbite": "^1.6.3",
+    "js-cookie": "^3.0.1",
+    "mongoose": "^6.8.4",
     "next": "13.1.2",
+    "next-auth": "^4.18.10",
+    "next-themes": "^0.2.1",
+    "postcss-cli": "^10.1.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.42.1",
+    "react-switch": "^7.0.0",
+    "react-toastify": "^9.1.1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
   }
 }
